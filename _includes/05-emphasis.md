@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*my skills* 
+        ✨ **Good in C#.**
+        ✨ **Responsive web design with Boostrap.**
+        ✨ **Good Knowlage about algorithms.**
+        ✨ **Good in java and the Concept.**
+        ✨ **Good Knowalage about back end with PHP language.**
